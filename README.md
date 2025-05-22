@@ -4,7 +4,7 @@
 Hi! I'm a recent software engineering graduate with a strong interest in software development and exploring new technologies.
 I'm always open to learning, collaborating, and discussing exciting ideas — feel free to reach out!
 
-📫 How to reach me : stitchcoco123@gmail.com
+Contact me: <a href="mailto:stitchcoco123@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="25" height="25"/></a>
 
 <p align="left">
 </p>
