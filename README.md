@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm JHIH</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE77FF&center=true&width=435&lines=Hello!%F0%9F%91%8B+I'm+JHIH" alt="Typing SVG" /></a>
+
+## 👋 About Me
+Hi! I'm a recent software engineering graduate with a strong interest in software development and exploring new technologies.
+I'm always open to learning, collaborating, and discussing exciting ideas — feel free to reach out!
+
 📫 How to reach me : stitchcoco123@gmail.com
 
 
@@ -22,6 +27,22 @@
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JHIH123&theme=dracula&hide_border=%E9%8C%AF%E8%AA%A4%E7%9A%84&short_numbers=%E9%8C%AF%E8%AA%A4%E7%9A%84" alt="GitHub Streak" /></a>
+
+
+
+
+<!-- <details>
+    <summary>123</summary>
+
+    
+</details> -->
+
+
+
+<p align="left">
+<!--     Add your own socials inside "href" -->
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fernandezbap" /></a>
+</p>
 
 
 
