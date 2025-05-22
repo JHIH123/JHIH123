@@ -1,6 +1,4 @@
-<h>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE77FF&center=true&width=435&lines=Hello!%F0%9F%91%8B+I'm+JHIH" alt="Typing SVG" /></a>
-</h>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=BE77FF&center=true&width=500&height=150&lines=Hello!%F0%9F%91%8B+I'm+JHIH" alt="Typing SVG" /></a>
 
 ## 👋 About Me
 Hi! I'm a recent software engineering graduate with a strong interest in software development and exploring new technologies.
