@@ -1,4 +1,6 @@
+<h>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE77FF&center=true&width=435&lines=Hello!%F0%9F%91%8B+I'm+JHIH" alt="Typing SVG" /></a>
+</h>
 
 ## 👋 About Me
 Hi! I'm a recent software engineering graduate with a strong interest in software development and exploring new technologies.
@@ -6,43 +8,23 @@ I'm always open to learning, collaborating, and discussing exciting ideas — fe
 
 📫 How to reach me : stitchcoco123@gmail.com
 
-
 <p align="left">
 </p>
 
-
 ## 🔧&nbsp;My toolbox
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
+[![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,docker,vue,mysql,eclipse,idea,html,css,git,nodejs)](https://skillicons.dev)
 
 
 ## 📊&nbsp;Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHIH123&show_icons=true&theme=dracula&hide_border=true&bg_color=30,FFCAD4,904e95&title_color=FFFFFF&icon_color=FFF480)
 
-
-
-
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JHIH123&theme=dracula&hide_border=%E9%8C%AF%E8%AA%A4%E7%9A%84&short_numbers=%E9%8C%AF%E8%AA%A4%E7%9A%84" alt="GitHub Streak" /></a>
-
-
-
 
 <!-- <details>
     <summary>123</summary>
 
-    
+    gmail
 </details> -->
-
-
-
-<p align="left">
-<!--     Add your own socials inside "href" -->
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fernandezbap" /></a>
-</p>
 
 
 
